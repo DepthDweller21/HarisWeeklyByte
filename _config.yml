@@ -30,11 +30,54 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  DepthDweller21
 linkedin_username: haris-lakhani-b38286240
 
+#author
+author:
+  name: "Muhammad Haris"
+  avatar: "/assets/images/me.jpeg"  # Path to your avatar image
+  bio: "This is my personal journey towards achieving great things in my computing adventure, I'll be sharing stories of my life,
+  and personal experiences by learning more about computing and the computer science world as well as my day to day struggles
+  of a job, uni and learning"
+  location: "Pakistan/Karachi"
+  email: "muhammadharis571@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/DepthDweller21"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/your-username"
+
+
+#theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark"
+
+sidebar:
+  author_profile: true
+
+defaults:
+  - scope:
+      path: "/"
+      type: posts
+    values:
+      author_profile: true
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

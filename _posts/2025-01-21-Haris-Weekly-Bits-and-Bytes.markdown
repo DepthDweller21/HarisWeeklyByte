@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title:  "Welcome to My Blog!"
 date:   2025-01-21 05:01:37 +0500
 categories: jekyll update

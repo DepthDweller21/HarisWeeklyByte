@@ -1,23 +1,23 @@
 ---
-layout: post
+layout: home
 title:  "ToDo list for new blog"
 date:   2025-01-22 19:01:37 +0500
 categories: new blog
+author_profile: true
 ---
 
 These are a few features you could look out for in the near future I may work on in my free time, I'll be updating this list gradually for keep out for updates!
 
 ## Core Features
 - [ ] **Custom Feeds**: Separate feeds for blogs, courses, or other content categories.
-- [ ] **Custom Theme**: A unique theme to match your branding or style.
+- [x] **Custom Theme**: A unique theme to match my style.
 - [ ] **Custom Navigation**: Intuitive menus for easy content access.
 
 ## Design & Visual Enhancements
 - [ ] **Custom Emojis**: Discord-like emojis for personalized flair.
-- [ ] **Dark Mode**: A toggle for light and dark themes.
+- [x] **Dark Mode**: A toggle for light and dark themes.
 - [ ] **Favicon**: Custom favicon for browser tabs.
 - [ ] **Header/Footer Customization**: Add social links, tags, or branding.
-- [ ] **Custom CSS**: Override default styles for a unique look.
 
 ## Reader Engagement
 - [ ] **Search Bar**: Enable content search with tools like Simple-Jekyll-Search.
