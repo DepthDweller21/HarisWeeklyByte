@@ -14,7 +14,7 @@ so, heres a ramble about gpus, games, anime, and computers
 
 yeah no nevermind, well, back to topic, gpus, see the new 5090 yet? no, not in person, we too broke for that shit, ... can I say shit? I mean... theres no moderation since I actually own the site so...
 
-anyways, the 5090, amazing ass specs, good stuff, blackwell architecture (I barely know von neumann architecture), honestly? before the 5090 review I didn't even know that there were games even the 2080 struggled at, let alone performed at sub-10 fps (talking about (Black Myth: Wukong)[https://store.steampowered.com/app/2358720/Black_Myth_Wukong/]) which was very suprising, since the last game I've played was CoD:Bo2 on the xbox360, which was back in 2017, back when I didn't even know what fps was, on split screen
+anyways, the 5090, amazing ass specs, good stuff, blackwell architecture (I barely know von neumann architecture), honestly? before the 5090 review I didn't even know that there were games even the 2080 struggled at, let alone performed at sub-10 fps (talking about [Black Myth: Wukong](https://store.steampowered.com/app/2358720/Black_Myth_Wukong/)) which was very suprising, since the last game I've played was CoD:Bo2 on the xbox360, which was back in 2017, back when I didn't even know what fps was, on split screen
 
 speaking of games:
 
@@ -28,7 +28,7 @@ ever since solo levelling the anime came out, Ive been pretty excited for it, th
 
 # compooter
 
-so Ive been wanting to start an 8 bit computer for a while now, and ive looked up courses and ive settled on (nand2tetris)[https://www.nand2tetris.org/] its a pretty good course and very comprehensive, really excited to run doom on my own computer, although I don't know much about a display, but I guess I'll figure that out with time
+so Ive been wanting to start an 8 bit computer for a while now, and ive looked up courses and ive settled on [nand2tetris](https://www.nand2tetris.org/) its a pretty good course and very comprehensive, really excited to run doom on my own computer, although I don't know much about a display, but I guess I'll figure that out with time
 
 # NOTICE
 
