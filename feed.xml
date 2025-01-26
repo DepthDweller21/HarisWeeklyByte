@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-01-26T16:16:08+00:00</updated><id>/feed.xml</id><title type="html">Haris’ Weekly Bit and Byte</title><subtitle>This is my personal journey towards achieving great things in my computing adventure, I&apos;ll be sharing stories of my life, and personal experiences by learning more about computing and the computer science world as well as my day to day struggles of a job, uni and learning</subtitle><author><name>Muhammad Haris</name><email>muhammadharis571@gmail.com</email></author><entry><title type="html">Blog sounds funny</title><link href="/blog/Blog-sounds-funny" rel="alternate" type="text/html" title="Blog sounds funny" /><published>2025-01-25T00:01:37+00:00</published><updated>2025-01-25T00:01:37+00:00</updated><id>/blog/Blog-sounds-funny</id><content type="html" xml:base="/blog/Blog-sounds-funny"><![CDATA[<p>upon waiting for a very long time, I’m back!! I’m actually really excited to talk about stuff and Ive been brainstorming about this for so long, so excited in fact that…. I forgot what I wanted to talk about…</p>
+
+<p>so, heres a ramble about gpus, games, anime, and computers</p>
+
+<h1 id="in-a-galaxy-far-far-away">IN A GALAXY FAR FAR AWAY</h1>
+
+<p>yeah no nevermind, well, back to topic, gpus, see the new 5090 yet? no, not in person, we too broke for that shit, … can I say shit? I mean… theres no moderation since I actually own the site so…</p>
+
+<p>anyways, the 5090, amazing ass specs, good stuff, blackwell architecture (I barely know von neumann architecture), honestly? before the 5090 review I didn’t even know that there were games even the 2080 struggled at, let alone performed at sub-10 fps (talking about <a href="https://store.steampowered.com/app/2358720/Black_Myth_Wukong/">Black Myth: Wukong</a>) which was very suprising, since the last game I’ve played was CoD:Bo2 on the xbox360, which was back in 2017, back when I didn’t even know what fps was, on split screen</p>
+
+<p>speaking of games:</p>
+
+<h1 id="games">GAMES</h1>
+
+<p>Balatro has been pretty meta lately, and I tried it (don’t tell anyone that I pirated the game okay?), which made me want to buy a deck of cards, I didn’t end up buying a deck, because I barely have enough time to binge watch anime, let alone play games, people say that its very addicting, I can’t exactly say I disagree, but I want an even more addicting game, this didn’t hit the spot for me, its been a while since I’ve been able to do nothing but think about a game that I want to play, people around me seem to be addicted to weird shooter games on their phones (I won’t be calling you out, don’t worry, I don’t want half of the population around me to target me for calling out a weird ass game)</p>
+
+<h1 id="anime-time">ANIME TIME</h1>
+
+<p>ever since solo levelling the anime came out, Ive been pretty excited for it, the artists really deserve alot of credit for the visuals on the anime, although I personally still prefer the manhwa</p>
+
+<h1 id="compooter">compooter</h1>
+
+<p>so Ive been wanting to start an 8 bit computer for a while now, and ive looked up courses and ive settled on <a href="https://www.nand2tetris.org/">nand2tetris</a> its a pretty good course and very comprehensive, really excited to run doom on my own computer, although I don’t know much about a display, but I guess I’ll figure that out with time</p>
+
+<h1 id="notice">NOTICE</h1>
+
+<p>I think my co-workers, and my family might be reading this, so, I can’t exactly go all out… (or maybe ? ;&gt; ) but you can pretty much expect me to be plenty unfiltered here, as of now, untill uni begins, I’ll likely keep working on this, so that this is enough for other new people to see (yes, you don’t count, you’re here for the content, not for the perks) and when I’m knee deep in studying and working all I’d have to do is to add pages here</p>
+
+<h1 id="change-log">change log</h1>
+
+<p>I now have custom emojies!!:Aris: :FeelsSurrenderMan: :LetsSee: :PepeDisgusted: :PepeHands: :PepeLove: :PepeMugen: :PepePissed: :PepePolice: :PepeSad: :PepeSadMusic: :PepeSmile: :PepeSuicidal: :PepeThinking: :PepeZaib: :SadfaceCat: :ThumbupCat: :aluaftertacobell: :annoyed: :arsina: :arty: :baka: :bonk: :cantbelieve: :chefkiss: :cig: :coffeepepe: :cri: :cryingchuza: :crylaugh: :dabt: :dark: :deadge: :eek: :engineer: :fbi: :hmm: :hyperkek: :illuminati: :immaputinher: :jay: :kms: :loadingcat: :lurk: :meh: :mind: :mugen: :notkind: :notstonks: :noway: :ohshit: :ohshit2: :pain: :pepeangel: :pepeblushsad: :pepeclown: :pepecoffee2: :pepecool: :pepecry: :pepedil: :pepeemar: :pepefinger: :pepegunpolice:</p>]]></content><author><name>Muhammad Haris</name><email>muhammadharis571@gmail.com</email></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[upon waiting for a very long time, I’m back!! I’m actually really excited to talk about stuff and Ive been brainstorming about this for so long, so excited in fact that…. I forgot what I wanted to talk about…]]></summary></entry><entry><title type="html">ToDo list for new blog</title><link href="/blog/ToDo-List-For-Blog" rel="alternate" type="text/html" title="ToDo list for new blog" /><published>2025-01-22T14:01:37+00:00</published><updated>2025-01-22T14:01:37+00:00</updated><id>/blog/ToDo-List-For-Blog</id><content type="html" xml:base="/blog/ToDo-List-For-Blog"><![CDATA[<p>These are a few features you could look out for in the near future I may work on in my free time, I’ll be updating this list gradually for keep out for updates!</p>
+
+<h2 id="core-features">Core Features</h2>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Custom Feeds</strong>: Separate feeds for blogs, courses, or other content categories.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><strong>Custom Theme</strong>: A unique theme to match my style.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Custom Navigation</strong>: Intuitive menus for easy content access.</li>
+</ul>
+
+<h2 id="design--visual-enhancements">Design &amp; Visual Enhancements</h2>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Custom Emojis</strong>: Discord-like emojis for personalized flair.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><strong>Dark Mode</strong>: A toggle for light and dark themes.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Favicon</strong>: Custom favicon for browser tabs.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Header/Footer Customization</strong>: Add social links, tags, or branding.</li>
+</ul>
+
+<h2 id="reader-engagement">Reader Engagement</h2>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Search Bar</strong>: Enable content search with tools like Simple-Jekyll-Search.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Related Posts</strong>: Display similar posts at the end of each blog.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Commenting System</strong>: Use Disqus, Giscus, or another commenting tool.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Newsletter Signup</strong>: Integrate Mailchimp or a similar service.</li>
+</ul>
+
+<h2 id="content-organization">Content Organization</h2>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Tags and Categories</strong>: Organize and filter content with tags.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Archive Page</strong>: A dedicated page listing all posts by date or category.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Pagination</strong>: Break content into pages for better navigation.</li>
+</ul>
+
+<h2 id="media--interactivity">Media &amp; Interactivity</h2>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Image Gallery</strong>: Add galleries or carousels for visual content.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Video Embeds</strong>: Embed videos from YouTube, Vimeo, etc.</li>
+</ul>
+
+<h2 id="fun-features">Fun Features</h2>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Custom Loading Animation</strong>: Add a playful loading spinner.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Interactive Elements</strong>: Hover effects, animations, or dynamic features.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><strong>Hidden Easter Eggs</strong>: Fun surprises for your readers to discover.</li>
+</ul>]]></content><author><name>Muhammad Haris</name><email>muhammadharis571@gmail.com</email></author><category term="new" /><category term="blog" /><summary type="html"><![CDATA[These are a few features you could look out for in the near future I may work on in my free time, I’ll be updating this list gradually for keep out for updates!]]></summary></entry><entry><title type="html">Welcome to My Blog!</title><link href="/blog/Haris-Weekly-Bits-and-Bytes" rel="alternate" type="text/html" title="Welcome to My Blog!" /><published>2025-01-21T00:01:37+00:00</published><updated>2025-01-21T00:01:37+00:00</updated><id>/blog/Haris-Weekly-Bits-and-Bytes</id><content type="html" xml:base="/blog/Haris-Weekly-Bits-and-Bytes"><![CDATA[<p>currently trying to set this thing up so that people can actually save their eyes from light mode, I intend on posting once a week, with some sort of weekly meme, and/or anime hype, I’ll let the anime hype thing be as is, since they ma include spoilers and I don’t exactly know how to hide stuff yet, but I’m sure I’ll figure it out, also I could maybe add some sort of puzzle to this thing too, who knows, for now, suffer under the wrath of my light mode! &gt;:D</p>
+
+<p>P.S. theres a <a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search">firefox</a> and <a href="https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en">chrome</a> extension called dark reader you can use to read in dark mode untill I figure out how to manage this</p>]]></content><author><name>Muhammad Haris</name><email>muhammadharis571@gmail.com</email></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[currently trying to set this thing up so that people can actually save their eyes from light mode, I intend on posting once a week, with some sort of weekly meme, and/or anime hype, I’ll let the anime hype thing be as is, since they ma include spoilers and I don’t exactly know how to hide stuff yet, but I’m sure I’ll figure it out, also I could maybe add some sort of puzzle to this thing too, who knows, for now, suffer under the wrath of my light mode! &gt;:D]]></summary></entry></feed>
