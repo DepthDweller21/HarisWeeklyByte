@@ -15,3 +15,4 @@ gem "csv"
 gem "base64"
 gem "logger"
 gem "jekyll-include-cache", group: :jekyll_plugins
+gem "minimal-mistakes-jekyll"

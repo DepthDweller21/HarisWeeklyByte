@@ -1,3 +1,20 @@
 <!-- start custom footer snippets -->
-
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // Replace ::shortcode:: with <img> tags
+      function replaceCustomEmojis() {
+        const emojiDir = "/assets/emoji/"; // Path to your emoji directory
+        const body = document.body;
+        const regex = /:([a-zA-Z0-9_+-]+):/g; // Match ::shortcode::
+    
+        // Replace text in all elements (including nested elements)
+        body.innerHTML = body.innerHTML.replace(regex, (match, shortcode) => {
+          const emojiPath = `${emojiDir}${shortcode}.webp`; // Adjust extension if needed
+          return `<img src="${emojiPath}" alt="${shortcode}" class="emoji">`;
+        });
+      }
+    
+      replaceCustomEmojis();
+    });
+    </script>
 <!-- end custom footer snippets -->

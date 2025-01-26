@@ -34,3 +34,6 @@ so Ive been wanting to start an 8 bit computer for a while now, and ive looked u
 
 I think my co-workers, and my family might be reading this, so, I can't exactly go all out... (or maybe ? ;> ) but you can pretty much expect me to be plenty unfiltered here, as of now, untill uni begins, I'll likely keep working on this, so that this is enough for other new people to see (yes, you don't count, you're here for the content, not for the perks) and when I'm knee deep in studying and working all I'd have to do is to add pages here
 
+# change log
+
+I now have custom emojies!!:Aris: :FeelsSurrenderMan: :LetsSee: :PepeDisgusted: :PepeHands: :PepeLove: :PepeMugen: :PepePissed: :PepePolice: :PepeSad: :PepeSadMusic: :PepeSmile: :PepeSuicidal: :PepeThinking: :PepeZaib: :SadfaceCat: :ThumbupCat: :aluaftertacobell: :annoyed: :arsina: :arty: :baka: :bonk: :cantbelieve: :chefkiss: :cig: :coffeepepe: :cri: :cryingchuza: :crylaugh: :dabt: :dark: :deadge: :eek: :engineer: :fbi: :hmm: :hyperkek: :illuminati: :immaputinher: :jay: :kms: :loadingcat: :lurk: :meh: :mind: :mugen: :notkind: :notstonks: :noway: :ohshit: :ohshit2: :pain: :pepeangel: :pepeblushsad: :pepeclown: :pepecoffee2: :pepecool: :pepecry: :pepedil: :pepeemar: :pepefinger: :pepegunpolice:
