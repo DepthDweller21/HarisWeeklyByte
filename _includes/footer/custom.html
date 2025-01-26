@@ -1,17 +1,31 @@
 <!-- start custom footer snippets -->
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-      // Replace ::shortcode:: with <img> tags
+      // Get baseurl from Jekyll (make sure _config.yml is properly configured)
+      const baseurl = "{{ site.baseurl }}";
+      
       function replaceCustomEmojis() {
-        const emojiDir = "/assets/images/emoji/"; // Path to your emoji directory
-        const body = document.body;
-        const regex = /:([a-zA-Z0-9_+-]+):/g; // Match ::shortcode::
+        // Use baseurl in path construction
+        const emojiDir = `${baseurl}/assets/images/emoji/`;
+        const regex = /:([a-zA-Z0-9_+-]+):/g;
     
-        // Replace text in all elements (including nested elements)
-        body.innerHTML = body.innerHTML.replace(regex, (match, shortcode) => {
-          const emojiPath = `${emojiDir}${shortcode}.webp`; // Adjust extension if needed
-          return `<img src="${emojiPath}" alt="${shortcode}" class="emoji">`;
+        // Replace innerHTML safely
+        walkDOM(document.body, function(node) {
+          if (node.nodeType === Node.TEXT_NODE) {
+            node.textContent = node.textContent.replace(regex, (match, shortcode) => {
+              return `<img src="${emojiDir}${shortcode}.webp" alt="${shortcode}" class="emoji">`;
+            });
+          }
         });
+      }
+    
+      // Safer DOM traversal than innerHTML replacement
+      function walkDOM(node, callback) {
+        if (node.nodeType === Node.TEXT_NODE) {
+          callback(node);
+        } else {
+          node.childNodes.forEach(child => walkDOM(child, callback));
+        }
       }
     
       replaceCustomEmojis();

@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my personal journey towards achieving great things in my computing adventure, I'll be sharing stories of my life,
   and personal experiences by learning more about computing and the computer science world as well as my day to day struggles
   of a job, uni and learning
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  DepthDweller21
 linkedin_username: haris-lakhani-b38286240
@@ -49,8 +49,8 @@ author:
 
 
 #theme settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-# theme: "minimal-mistakes-jekyll"
+# remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+theme: "minimal-mistakes-jekyll"
 minimal_mistakes_skin: "dark"
 
 sidebar:
